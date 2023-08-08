@@ -1,0 +1,36 @@
+header {
+	height: 120px;
+	background-color: Blue;
+}
+#logo {
+	height: 80px;
+	width: 80px;
+	float: left;
+	background-color: lightgreen;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+#menu {
+	height: 80px;
+	width: 900px;
+	background-color: Navy;
+	float: right;
+	margin-top: 20px;
+	margin-right: 20px;
+}
+#conteudo {
+	background-color: Lightpink;
+	height: 500px;
+	color: White;
+}
+#conteudo a {
+	text-decoration: none;
+	color: blue;
+}
+#conteudo img {
+	margin: 20px;
+}
+footer {
+	background-color: gray;
+	height: 80px;
+}
